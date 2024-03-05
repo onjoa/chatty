@@ -106,6 +106,14 @@ body {
     max-width: 1200px;
 }
 
+.contenedor-titulos
+{
+    max-width: 1200px;
+    background-color: #122d40;
+    padding-bottom: 40px;
+    padding-top: 40px;
+}
+
 /*Formulario*/
 .url-form {
     display: flex;
