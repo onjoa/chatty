@@ -80,9 +80,13 @@ body {
     color: white;
 }
 
+.padding-h {
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+
 .fondo-azul {
     background-color: #122d40;
-    padding-bottom: 90px;
 }
 
 .fondo-celeste {
@@ -110,8 +114,8 @@ body {
 {
     max-width: 1200px;
     background-color: #122d40;
-    padding-bottom: 40px;
     padding-top: 40px;
+    padding-bottom: 40px;
 }
 
 /*Formulario*/
@@ -136,7 +140,6 @@ body {
     border-color: #5aa1fb
         /* Cambia el color del borde al enfocar */
 }
-
 
 
 /*Sección hero*/
